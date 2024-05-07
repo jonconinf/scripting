@@ -16,6 +16,8 @@
 - Write a shell script that runs the `top` command, filters the output, and saves it to a file.
 - Add additional functionalities, such as the ability to specify a CPU usage threshold to alert if exceeded.
 
+
+
 ## Exercise 2: Disk Space Usage Monitoring Script
 
 **Objective:** Develop a script that monitors disk space usage on a Unix/Linux system and notifies if free space falls below a specified threshold.
@@ -31,6 +33,8 @@
 - Research how to use the `df` command to obtain information about available disk space.
 - Write a shell script that runs the `df` command, analyzes its output, and notifies if disk space falls below a certain threshold.
 - Add options to the script to specify different thresholds based on the filesystem or specific directory.
+
+
 
 ## Exercise 3: Service Restart Script
 
@@ -49,6 +53,8 @@
 - Write a shell script that accepts the service name as an argument and performs the steps mentioned above.
 - Add error handling and clear informative messages for the user.
 
+
+
 ## Exercise 4: File Backup Script
 
 **Objective:** Create a script that performs automatic backups of specific files and directories.
@@ -65,6 +71,8 @@
 - Research how to use the `tar` command to compress files and directories into a tar.gz archive.
 - Write a shell script that accepts the names of files or directories as arguments and performs the steps mentioned above.
 - Add additional functionalities, such as the ability to schedule periodic backups using `cron`.
+
+
 
 ## Exercise 5: Version Bump Script
 
